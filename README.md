@@ -3,3 +3,6 @@ This repo is a collection of resources relating to Mario Kart 8's tracks. The [t
 
 # Track List
 [tracklist.md](https://github.com/archmage/mk8-tracks/blob/master/tracklist.md) is a list of all the tracks in Mario Kart 8.
+
+# Tier List
+[tierlist.md](https://github.com/archmage/mk8-tracks/blob/master/tierlist.md) is a subjective tier list by Archmage of the tracks and their ratings.
